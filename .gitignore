@@ -1,0 +1,17 @@
+ni .gitignore
+notepad .gitignore
+
+# Laravel backend
+api/vendor/
+api/node_modules/
+api/.env
+
+# React frontend
+web/node_modules/
+web/build/
+web/.env
+
+# General
+.DS_Store
+Thumbs.db
+*.log
